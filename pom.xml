@@ -67,7 +67,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <org.openjdk.jmh.version>1.19</org.openjdk.jmh.version>
 
-        <h3.git.remote>https://github.com/uber/h3.git</h3.git.remote>
+        <h3.git.remote>https://github.com/isaacbrodsky/h3.git</h3.git.remote>
         <h3.use.docker>true</h3.use.docker>
         <!-- Used for passing additional arguments to surefire when using JaCoCo -->
         <h3.additional.argLine />
