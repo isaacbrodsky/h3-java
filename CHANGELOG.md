@@ -6,11 +6,17 @@ file [H3Core.java](./src/main/java/com/uber/h3core/H3Core.java), and support
 for the Linux x64 and Darwin x64 platforms.
 
 ## Unreleased Changes
+
+## [4.5.0] - 2026-08-14
 ### Added
 - `reverseDirectedEdge` function. (#207)
 
+### Fixed
+- Android AAR should link to libm correctly. (#211)
+
 ### Changed
 - Upgraded the core library to v4.5.0. (#207)
+- Added tests using upstream uber/h3 test files. (#210)
 
 ## [4.4.0] - 2025-12-12
 ### Added
